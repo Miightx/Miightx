@@ -15,6 +15,10 @@ The virtual cane is a device created to help visually impaired people to navigat
 
 I was the one who designed the electrical circuit, ensured the integration of components, and corrected any issue. You can check the project [here](https://github.com/Miightx/virtual-cane).
 
+### ROS navigation
+![Navigation modelization ](https://github.com/Miightx/turtlebot_burger-navigation/assets/117952621/d6ba08c4-175b-4637-b4cd-12ea9a7457d1)
+
+A model of a Turtlebot Burger is created in ROS, where the robot is tasked with navigating through an environment. Several methods, such as OpenCV with the camera and sensor data were applied to follow a colour line and avoid obstacles. You can download the ZIP file [here](https://github.com/Miightx/turtlebot_burger-navigation). to try in your system!
 ### Saboteur
 ![saboteur](https://github.com/Miightx/Miightx/assets/117952621/8f4878c8-3952-4648-9815-a262f47d8a4e)
 
@@ -25,13 +29,16 @@ I made the menu and the npc. You can find the game code  [here](https://github.c
 ### Robot arm optimization
 ![Bras_robot](https://github.com/Miightx/robot_arm_optimization/assets/117952621/259e57e8-25c9-48c5-821b-70f70ac234d2)
 
-Different methods such as adaptive step gradient and Newton's method were used to determine the solutions to minimize the trajectory of a robot arm. You can check the method [here](https://github.com/Miightx/robot_arm_optimization).
+Various methods such as adaptive step gradient and Newton's method were used to determine the solutions to minimize the trajectory of a robot arm. You can check the method [here](https://github.com/Miightx/robot_arm_optimization).
 
 ## Other tasks 🛠️
 ### --Python--
 ### Colorization of a gray image
 
 Using similar colored images, we attend to colour a gray image with feature extraction and implementation of the pixel color to the gray image. The program can be run [here](https://github.com/Miightx/Gray_images_to-colored).
+
+### Bio Vision
+There are several works that I implemented during my master, using various methods with OpenCV and Skimage to detect anomalies. You can check the programs [here](https://github.com/Miightx/Vision-bio).
 
 ## Link 🌐✉︎
 Mail - <a href="mailto:laurentlin2000@hotmail.fr">laurentlin2000@hotmail.fr</a>
